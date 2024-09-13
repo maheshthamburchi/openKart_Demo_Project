@@ -10,6 +10,7 @@
     </classes>
   </test> <!-- Test -->
   
+  
   <test thread-count="5" name="edge_Test">
   <parameter name="os" value="windows"/>
 <parameter name="browser" value="edge"/>

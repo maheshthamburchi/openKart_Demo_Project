@@ -6,3 +6,21 @@
 13:36:03.798 [main] INFO  test_Cases.TC2_Login_Test - clicked on my select
 13:36:06.559 [main] INFO  test_Cases.TC2_Login_Test - login details entered and clicked on login button
 13:36:06.630 [main] INFO  test_Cases.TC2_Login_Test - login test passed
+10:42:09.849 [main] INFO  test_Cases.TestCase_Registration - ******Chrome browser running successfully******
+10:42:11.906 [main] INFO  test_Cases.TestCase_Registration - ****** Registration test case has started successfully ******
+10:42:12.014 [main] INFO  test_Cases.TestCase_Registration - Clicked on my account
+10:42:12.485 [main] INFO  test_Cases.TestCase_Registration - Clicked on register
+10:42:17.518 [main] INFO  test_Cases.TestCase_Registration - Registration form filling started
+10:42:26.463 [main] INFO  test_Cases.TestCase_Registration - Registration form completed
+10:42:29.480 [main] INFO  test_Cases.TestCase_Registration - Clicked on continue button
+10:42:29.542 [main] INFO  test_Cases.TestCase_Registration - Validation completed
+10:42:30.936 [main] INFO  test_Cases.TC2_Login_Test - ******Chrome browser running successfully******
+10:42:32.972 [main] INFO  test_Cases.TC2_Login_Test - clicked on my account
+10:42:33.223 [main] INFO  test_Cases.TC2_Login_Test - clicked on my select
+10:42:33.720 [main] INFO  test_Cases.TC2_Login_Test - login details entered and clicked on login button
+10:42:43.807 [main] INFO  test_Cases.TC2_Login_Test - login test failed
+18:56:17.755 [main] INFO  test_Cases.TC2_Login_Test - ******Chrome browser running successfully******
+18:56:34.779 [main] INFO  test_Cases.TC2_Login_Test - clicked on my account
+18:56:35.011 [main] INFO  test_Cases.TC2_Login_Test - clicked on my select
+18:56:36.832 [main] INFO  test_Cases.TC2_Login_Test - login details entered and clicked on login button
+18:56:46.873 [main] INFO  test_Cases.TC2_Login_Test - login test failed

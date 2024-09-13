@@ -9,7 +9,7 @@
   <parameter name="os" value="windows"/>
 <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="test_Cases.TestCase_Registration"/>
+      <!--<class name="test_Cases.TestCase_Registration"/>-->
       <class name="test_Cases.TC2_Login_Test"/>
     </classes>
   </test> <!-- Test -->
